@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@abrahamjud10090" target="blank"><img src="https://img.shields.io/twitter/follow/@abrahamjud10090?logo=twitter&style=for-the-badge" alt="@abrahamjud10090" /></a> </p>
 
-- 🔭 I’m Aspiring to become  **A Software Developer| Aspiring Frontend Developer| Learning Javascript**
+- 🔭 I’m Aspiring to become  **A Software Developer| Aspiring Frontend and Backend Developer| Learning Javascript**
 
 - 🌱 I’m currently learning **Javascript and a bit of React**
 
