@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/@abrahamjud10090" target="blank"><img src="https://img.shields.io/twitter/follow/@abrahamjud10090?logo=twitter&style=for-the-badge" alt="@abrahamjud10090" /></a> </p>
 
-- 🔭 I’m Aspiring to become a Software Developer| Aspiring Frontend Developer| Learning Javascript **A Software Developer| Aspiring Frontend Developer| Learning Javascript**
+- 🔭 I’m Aspiring to become  **A Software Developer| Aspiring Frontend Developer| Learning Javascript**
 
 - 🌱 I’m currently learning **Javascript and a bit of React**
 
-- 👯 I’m looking to collaborate on everything related to Web and App Development **Everything related to Web and App Development**
+- 👯 I’m looking to collaborate on  **Everything related to Web and App Development**
 
 - 🔥About Me **💻 I love and have a great passion for programming**
 
-- 👀I'm interested in Football and Tech stuffs **In Football and Tech stuffs**
+- 👀I'm interested **In Football and Tech stuffs**
 
 - 📫 How to reach me **judahabrahamforgood@gmail.com**
 
