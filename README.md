@@ -1,41 +1,34 @@
-# Hi! I am Oluwaseun Abraham, but you can call me Judah.👋
-<body>
-  <p1>   🔥💻 Aspiring Software Developer| Aspiring Frontend and Backend Developer|
-                    Learning Javascript 🔥💻 </p>
+<h1 align="center">Hi!, I'm Oluwaseun Abraham but you can call me Judah👋</h1>
+<h3 align="center">A passionate frontend developer from Nigeria</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=judahabraham15&label=Profile%20views&color=0e75b6&style=flat" alt="judahabraham15" /> </p>
 
-  <h1>👨‍💻🔥About Me</h1>
+<p align="left"> <a href="https://twitter.com/@abrahamjud10090" target="blank"><img src="https://img.shields.io/twitter/follow/@abrahamjud10090?logo=twitter&style=for-the-badge" alt="@abrahamjud10090" /></a> </p>
 
-  I'm aspiring to become a software developer and I am from Nigeria
+- 🔭 I’m Aspiring to become a Software Developer| Aspiring Frontend Developer| Learning Javascript **A Software Developer| Aspiring Frontend Developer| Learning Javascript**
 
-  🍲I love food.
-  
-  💻I have a great passion for programming.
+- 🌱 I’m currently learning **Javascript and a bit of React**
 
-  👀I'm interested in Football and Tech stuffs.
+- 👯 I’m looking to collaborate on everything related to Web and App Development **Everything related to Web and App Development**
 
-  🌱I'm currently learning Javascript and a bit of React.
+- 🔥About Me **💻 I love and have a great passion for programming**
 
-  💥I'm looking to collaborate on everything related to making the Internet a Better place.
+- 👀I'm interested in Football and Tech stuffs **In Football and Tech stuffs**
 
+- 📫 How to reach me **judahabrahamforgood@gmail.com**
 
-# 🛠️ Languages and Tools
-<div>
-<img src="https://github.com.devicons/devicon/blob/main/icons/html5/html5-original.svg"title="HTML5" alt="HTML"width="40"height="40"/>&nbsp;
-  </div>
+- ⚡ Fun fact **Just a guy trying to be good at what he does**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@abrahamjud10090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abrahamjud10090" height="30" width="40" /></a>
+</p>
 
-<h2>Stats🔥</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=judahabraham15&show_icons=true&locale=en&layout=compact" alt="judahabraham15" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Judahabraham15&show_icons=true&theme=transparent)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=judahabraham15&show_icons=true&locale=en" alt="judahabraham15" /></p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Judahabraham15)
-
-
-
-<!---
-Judahabraham15/Judahabraham15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=judahabraham15&" alt="judahabraham15" /></p>
