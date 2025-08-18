@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/@abrahamjud10090" target="blank"><img src="https://img.shields.io/twitter/follow/@abrahamjud10090?logo=twitter&style=for-the-badge" alt="@abrahamjud10090" /></a> </p>
 
-- 🔭 I’m Aspiring to become  **A Software Developer| Aspiring Frontend,Backend and Fullstack Developer**
+- 🔭 I’m Aspiring to become  **A Software Developer| Aspirng to be a FullStack Developer (MERN)**
 
-- 🌱 I’m currently learning **Javascript , React , Tail-wind and re-learning CSS**
+- 🌱 I’m currently learning **Javascript ,Typescript , React , Tail-wind and re-learning CSS**
 
 - 👯 I’m looking to collaborate on  **Everything related to Web and App Development**
 
