@@ -7,9 +7,9 @@
 
 - 🔭 I’m Aspiring to become  **A Software Developer| Aspirng to be a FullStack Developer (MERN)**
 
-- 🌱 I’m currently learning **Javascript ,Typescript , React , Tail-wind and re-learning CSS**
+- 🌱 I’m currently learning **Javascript ,Typescript , React , Tail-wind.**
 
-- 👯 I’m looking to collaborate on  **Everything related to Web and App Development**
+- 👯 I’m looking to collaborate on  **Everything related to Web , App Development and AI**
 
 - 🔥About Me **💻 I love and have a great passion for programming**
 
