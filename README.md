@@ -13,7 +13,7 @@
 
 - 🔥About Me **💻 I love and have a great passion for programming**
 
-- 👀I'm interested **In Football and Tech stuffs**
+- 👀I'm interested **Innovative and Tech activities**
 
 - 📫 How to reach me **judahabrahamforgood@gmail.com **
 
