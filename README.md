@@ -15,7 +15,7 @@
 
 - 👀I'm interested **Innovative and Tech activities**
 
-- 📫 How to reach me **judahabrahamforgood@gmail.com **
+- 📫 How to reach me **judahabraham4good@gmail.com **
 
 - ⚡ Fun fact **Just a guy trying to be good at what he does**
 
