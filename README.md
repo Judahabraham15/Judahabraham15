@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript ,Typescript , React , Next.js, React Native , Tailwind, Expo , Backend developement.**
 
-- 👯 I’m looking to collaborate on  **Everything related to Web , App Development and AI automation**
+- 👯 I’m looking for collaborations on  **Everything related to Web , App Development and AI automation**
 
 - 🔥About Me **💻 I love and have a great passion for programming**
 
