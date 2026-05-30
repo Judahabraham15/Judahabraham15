@@ -7,7 +7,7 @@
 
 - 🔭 I’m **A Software Developer| Aspiring to be a FullStack Developer (MERN) and AI Automation**
 
-- 🌱 I’m currently learning **Javascript ,Typescript , React , Next.js, React Native , Tailwind, Expo , Backend developement.**
+- 🌱 I’m currently learning **Javascript ,Typescript , React , Next.js, React Native , Tailwind, Expo , Backend developement, App development.**
 
 - 👯 I’m looking for collaborations on  **Everything related to Web , App Development and AI automation**
 
