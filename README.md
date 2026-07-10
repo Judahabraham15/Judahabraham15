@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@abrahamjud10090" target="blank"><img src="https://img.shields.io/twitter/follow/@abrahamjud10090?logo=twitter&style=for-the-badge" alt="@abrahamjud10090" /></a> </p>
 
-- 🔭 I’m **A Software Developer| Aspiring to be a FullStack Developer (MERN) and AI Automation**
+- 🔭 I’m **A Software Developer| Aspiring to be a FullStack Developer (MERN) **
 
 - 🌱 I’m currently learning **Javascript ,Typescript , React , Next.js, React Native , Tailwind, Expo , Backend developement, App development.**
 
