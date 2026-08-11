@@ -1,5 +1,5 @@
 <h1 align="center">Yoo! , I'm Judah Abraham, but you can call me Jayy!👋🏾</h1>
-<h3 align="center">A passionate FullStack developer.  </h3>
+<h3 align="center">A passionate FullStack developer/Mobile developer.  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judahabraham15&label=Profile%20views&color=0e75b6&style=flat" alt="judahabraham15" /> </p>
 
