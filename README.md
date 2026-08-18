@@ -11,7 +11,7 @@
 
 - 👯 I’m looking for collaborations on  **Everything related to Web , App Development and AI automation**
 
-- 🔥About Me **💻 I love and have a great passion for programming**
+- 🔥About Me **💻 I love and have a great passion for programming and creativity**
 
 - 👀I'm interested **Innovative and Tech activities**
 
